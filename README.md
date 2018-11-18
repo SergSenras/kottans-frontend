@@ -23,5 +23,5 @@ Review commits using filter by keywords and add tags to commits is new and inter
  Amend. It looks like really cool and useful thing
 - [x] *successfully finished course*
 ![git_collaboration](task_git_collaboration/github_&_collaboration.jpg)   
-![git_collaboration](task_git_collaboration/version_control_cith_git.jpg)   
+![git_collaboration](task_git_collaboration/version_control_with_git.jpg)   
 
