@@ -26,8 +26,14 @@ Review commits using filter by keywords and add tags to commits is new and inter
 ![git_collaboration](task_git_collaboration/version_control_with_git.jpg)   
 
 ## Intro to HTML and CSS
-![html_and_css](task_html_css_intro/html_and_css.jpg);   
-![html_and_css](task_html_css_intro/htmlacademy_1.jpg);   
-![html_and_css](task_html_css_intro/htmlacademy_2.jpg);   
-![html_and_css](task_html_css_intro/htmlacademy_3.jpg);  
+![html_and_css](task_html_css_intro/html_and_css.jpg)   
+![html_and_css](task_html_css_intro/htmlacademy_1.jpg)   
+![html_and_css](task_html_css_intro/htmlacademy_2.jpg)   
+![html_and_css](task_html_css_intro/htmlacademy_3.jpg)  
+
+## Responsive Web Design
+I've never used flexbox before and it looks very fascinating. Also was very interesting to know about different responsive patterns.
+Probably will use both those things in future but it depends on project. 
+![responsive_web_design](task_responsive_web_design/responsive_web_design.jpg)   
+![flexbox](task_responsive_web_design/flexboxfroggy.jpg)   
 
