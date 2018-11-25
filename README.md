@@ -25,3 +25,9 @@ Review commits using filter by keywords and add tags to commits is new and inter
 ![git_collaboration](task_git_collaboration/github_&_collaboration.jpg)   
 ![git_collaboration](task_git_collaboration/version_control_with_git.jpg)   
 
+## Intro to HTML and CSS
+![html_and_css](task_html_css_intro/html_and_css.jpg);   
+![html_and_css](task_html_css_intro/htmlacademy_1.jpg);   
+![html_and_css](task_html_css_intro/htmlacademy_2.jpg);   
+![html_and_css](task_html_css_intro/htmlacademy_3.jpg);  
+
