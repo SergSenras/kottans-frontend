@@ -37,3 +37,8 @@ Probably will use both those things in future but it depends on project.
 ![responsive_web_design](task_responsive_web_design/responsive_web_design.jpg)   
 ![flexbox](task_responsive_web_design/flexboxfroggy.jpg)   
 
+## JS Basics
+Finally some practice! :)
+![intro_to_js](task_js_basics/Intro_to_JS.jpg)
+![freecodecamp](task_js_basics/freecodecamp_part1.jpg)   
+
