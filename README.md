@@ -42,3 +42,7 @@ Finally some practice! :)
 ![intro_to_js](task_js_basics/Intro_to_JS.jpg)
 ![freecodecamp](task_js_basics/freecodecamp_part1.jpg)   
 
+## DOM
+![JavaScript_and_the_DOM](task_js_dom/JavaScript_and_the_DOM.jpg)
+![freecodecamp](task_js_dom/freecodecamp_part2.jpg)   
+
