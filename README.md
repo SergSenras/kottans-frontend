@@ -45,11 +45,11 @@ Finally some practice! :)
 ## DOM
 ![JavaScript_and_the_DOM](task_js_dom/JavaScript_and_the_DOM.jpg)
 ![freecodecamp](task_js_dom/freecodecamp_part2.jpg)   
-<!--
+
 [Demo](https://sergsenras.github.io/kottans-frontend/task_js_dom/js-dom/) |
 [Code base](https://github.com/SergSenras/kottans-frontend/tree/master/task_js_dom/js-dom)
-Reviewed and approved by @OleksiyRudenko
--->
+Reviewed and approved by @OleksiyRudenko and @A-Ostrovnyy 
+
 
 ## A Tiny JS World
 [Demo](https://sergsenras.github.io/kottans-frontend/task_tiny_js_world/) |
