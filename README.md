@@ -54,7 +54,7 @@ Reviewed and approved by @OleksiyRudenko and @A-Ostrovnyy
 ## A Tiny JS World
 [Demo](https://sergsenras.github.io/kottans-frontend/task_tiny_js_world/) |
 [Code base](https://github.com/SergSenras/kottans-frontend/tree/master/task_tiny_js_world)
-<!-- Reviewed and approved by @OleksiyRudenko -->
+Reviewed and approved by @OleksiyRudenko
 
 ## Object Oriented JS
 ![OOP](task_js_oop/oop.jpg)    
