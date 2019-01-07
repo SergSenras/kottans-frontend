@@ -50,7 +50,6 @@ Finally some practice! :)
 [Code base](https://github.com/SergSenras/kottans-frontend/tree/master/task_js_dom/js-dom)
 Reviewed and approved by @OleksiyRudenko and @A-Ostrovnyy 
 
-
 ## A Tiny JS World
 [Demo](https://sergsenras.github.io/kottans-frontend/task_tiny_js_world/) |
 [Code base](https://github.com/SergSenras/kottans-frontend/tree/master/task_tiny_js_world)
@@ -60,4 +59,12 @@ Reviewed and approved by @OleksiyRudenko
 ![OOP](task_js_oop/oop.jpg)    
 ![codewars](task_js_oop/codewars.jpg)    
 
+[Demo](https://sergsenras.github.io/frogger-game/) |    
+[Code base](https://github.com/SergSenras/frogger-game)     
+Reviewed and approved by @OleksiyRudenko
+
+## OOP Exercise
+[Demo](https://sergsenras.github.io/tiny-js-world-oop/) |    
+[Code base](https://github.com/SergSenras/SergSenras.github.io/tree/master/tiny-js-world-oop)     
+Reviewed and approved by @OleksiyRudenko
 
