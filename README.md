@@ -71,4 +71,15 @@ Reviewed and approved by @OleksiyRudenko
 ## Offline Web Applications
 ![Offline_Web_Applications](task_offline_web_app/OfflineWebApplications.jpg)
 
+## Memory Pair Game
+[Demo](https://sergsenras.github.io/memory-pair-game/) |    
+[Code base](https://github.com/SergSenras/SergSenras.github.io/tree/master/memory-pair-game)     
+Reviewed and approved by @AMashoshyna
+
+<!-- 
+## Friends App
+[Demo](https://sergsenras.github.io/friends-app/) |    
+[Code base](https://github.com/SergSenras/SergSenras.github.io/tree/master/friends-app)     
+Reviewed and approved by @AMashoshyna
+-->
 
