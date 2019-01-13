@@ -68,3 +68,7 @@ Reviewed and approved by @OleksiyRudenko
 [Code base](https://github.com/SergSenras/SergSenras.github.io/tree/master/tiny-js-world-oop)     
 Reviewed and approved by @OleksiyRudenko
 
+## Offline Web Applications
+![Offline_Web_Applications](task_offline_web_app/OfflineWebApplications.jpg)
+
+
