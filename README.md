@@ -76,10 +76,9 @@ Reviewed and approved by @OleksiyRudenko
 [Code base](https://github.com/SergSenras/SergSenras.github.io/tree/master/memory-pair-game)     
 Reviewed and approved by @AMashoshyna
 
-<!-- 
 ## Friends App
 [Demo](https://sergsenras.github.io/friends-app/) |    
 [Code base](https://github.com/SergSenras/SergSenras.github.io/tree/master/friends-app)     
 Reviewed and approved by @AMashoshyna
--->
+
 
